@@ -1,0 +1,33 @@
+@import "main.css";
+@import "custom.css";
+.filters-button-group {
+  margin-top: 15px;
+}
+.btn-isotope {
+  background-color: var(--dominantColor) !important;
+  border-color: var(--dominantColor) !important;
+  color: #ffffff;
+}
+
+.btn-isotope a,
+.btn-isotope:hover {
+  background-color: var(--accentColor) !important;
+  border-color: var(--accentColor) !important;
+}
+
+.card-title {
+  color: var(--dominantColor) !important;
+}
+
+.card {
+  margin: 15px;
+}
+.separate {
+  background-color: var(--dominantColor) !important;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin-bottom: 15px;
+}
+.btn-somewhere:hover {
+  transform: scale(1.1);
+}
